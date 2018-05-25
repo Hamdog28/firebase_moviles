@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Anthony-PC\Desktop\prueba\firebase_moviles\tarea6\app\app.iml" filepath="C:\Users\Anthony-PC\Desktop\prueba\firebase_moviles\tarea6\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/tarea6.iml" filepath="$PROJECT_DIR$/tarea6.iml" />
+      <module fileurl="file://C:\Users\Anthony-PC\Desktop\prueba\firebase_moviles\tarea6\tarea6.iml" filepath="C:\Users\Anthony-PC\Desktop\prueba\firebase_moviles\tarea6\tarea6.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "753850184688",
+    "firebase_url": "https://tarea6-8b17a.firebaseio.com",
+    "project_id": "tarea6-8b17a",
+    "storage_bucket": "tarea6-8b17a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753850184688:android:0f1d78851baaee96",
+        "android_client_info": {
+          "package_name": "com.example.mariapizarro.tarea6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753850184688-j943jk584evvcugn3p8hk3641edgpvg0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "753850184688-j943jk584evvcugn3p8hk3641edgpvg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUhv9mFkJ2cqo2vvWBXS-UtvzS2yxaLW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
