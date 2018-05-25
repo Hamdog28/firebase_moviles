@@ -58,8 +58,8 @@ public class AdapterProducto extends BaseAdapter {
         TextView descripcion =  (TextView) v.findViewById(R.id.descripcion);
         DownloadTask downloadTask = new DownloadTask();
         try {
-            Bitmap result = downloadTask.execute("https://firebasestorage.googleapis.com/v0/b/tarea6-d34b6.appspot.com/o/"+
-                    lista.get(i).getNombre()+"?alt=media&token=eb71b096-c31e-4b8c-95f9-447b6d3fb8ac)").get();
+            Bitmap result = downloadTask.execute("https://firebasestorage.googleapis.com/v0/b/tarea6-8b17a.appspot.com/o/"+
+                    lista.get(i).getNombre()+"?alt=media&token=50ffa0a1-aaa7-47b5-b03b-7d0e269be178").get();
             iv_imagen.setImageBitmap(result);
         } catch (InterruptedException e) {
             e.printStackTrace();
@@ -72,3 +72,4 @@ public class AdapterProducto extends BaseAdapter {
         return v;
     }
 }
+
